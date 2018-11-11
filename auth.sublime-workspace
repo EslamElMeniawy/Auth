@@ -1,0 +1,312 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fon",
+				"fontSize\tnumber"
+			],
+			[
+				"margin",
+				"marginRight\tnumber, string"
+			],
+			[
+				"fle",
+				"flexDirection\tenum('row', 'row-reverse', 'column', 'column-reverse')"
+			],
+			[
+				"mar",
+				"marginLeft\tnumber, string"
+			],
+			[
+				"sha",
+				"shadowRadius\tnumber"
+			],
+			[
+				"sh",
+				"shadowColor\tcolor"
+			],
+			[
+				"borB",
+				"borderBottomWidth\tnumber"
+			],
+			[
+				"bor",
+				"borderColor\tcolor"
+			],
+			[
+				"v",
+				"View"
+			],
+			[
+				"shadow",
+				"shadowOffset\t{width: number, height: number}"
+			],
+			[
+				"pa",
+				"paddingTop\tnumber, string"
+			],
+			[
+				"Vi",
+				"View"
+			],
+			[
+				"V",
+				"View"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/React/auth"
+	],
+	"file_history":
+	[
+		"/D/React/auth/auth.sublime-project",
+		"/D/React/albums/index.js",
+		"/D/React/albums/src/components/Header.js",
+		"/D/React/albums/src/components/AlbumList.js",
+		"/D/React/albums/src/components/AlbumDetail.js",
+		"/D/React/albums/src/components/Card.js",
+		"/D/React/albums/src/components/CardSection.js",
+		"/E/New folder/values-21/styles.xml",
+		"/E/New folder/values/styles.xml",
+		"/D/Android/Projects/TAQYEAM/app/src/main/res/values-v21/styles.xml",
+		"/E/New folder/layout-land/fragment_info.xml",
+		"/E/New folder/layout-land-v21/fragment_info.xml",
+		"/E/New folder/layout-v21/dialog_evaluator.xml",
+		"/E/New folder/layout/dialog_evaluator.xml",
+		"/E/New folder/layout/fragment_home.xml",
+		"/E/New folder/app_bar_main.xml",
+		"/E/New folder/layout/fragment_step4.xml",
+		"/D/Android/Projects/TAQYEAM/app/src/main/res/drawable-ar/report_done_bg.xml",
+		"/E/New folder/drawable-ar/report_done_bg.xml",
+		"/E/New folder/drawable-v21/dialog_bg.xml",
+		"/D/React/albums/.eslintrc",
+		"/D/React/reactTutorialApp/src/components/routes/Routes.js",
+		"/D/React/reactTutorialApp/src/components/home/Home.js",
+		"/D/React/reactTutorialApp/src/components/animations/Animations.js",
+		"/D/Android/Projects/TAQYEAM/app/build/outputs/apk/release/output.json",
+		"/E/Downloads/google-services.json",
+		"/D/React/reactTutorialApp/src/components/buttons/Buttons.js",
+		"/D/React/reactTutorialApp/src/components/http/HttpExample.js",
+		"/D/React/reactTutorialApp/src/components/http/Http.js",
+		"/D/React/reactTutorialApp/src/components/images/ImagesExample.js",
+		"/D/React/reactTutorialApp/src/components/images/Images.js",
+		"/D/React/reactTutorialApp/index.js",
+		"/D/React/reactTutorialApp/src/components/scrollView/ScrollViewExample.js",
+		"/D/React/reactTutorialApp/src/components/scrollView/ScrollView.js",
+		"/D/React/reactTutorialApp/src/components/textInput/Inputs.js",
+		"/D/React/reactTutorialApp/src/components/textInput/TextInput.js",
+		"/D/React/reactTutorialApp/src/components/listView/List.js",
+		"/D/React/reactTutorialApp/src/components/listView/ListView.js",
+		"/D/React/reactTutorialApp/src/components/flexbox/Flexbox.js",
+		"/D/React/reactTutorialApp/src/components/styling/PresentationalComponent.js",
+		"/D/React/reactTutorialApp/src/components/styling/Styling.js",
+		"/D/React/reactTutorialApp/src/components/props/PresentationalComponent.js",
+		"/D/React/reactTutorialApp/src/components/props/Props.js",
+		"/D/React/reactTutorialApp/src/components/state/State.js",
+		"/D/React/reactTutorialApp/android/app/src/main/java/com/reacttutorialapp/MainActivity.java",
+		"/D/React/reactTutorialApp/App.js",
+		"/D/React/reactTutorialApp/src/components/home/PresentationalComponent.js",
+		"/D/React/reactTutorialApp/src/components/home/List.js",
+		"/D/React/reactTutorialApp/package.json",
+		"/D/React/reactTutorialApp/app.json",
+		"/D/React/reactTutorialApp/index.android.js",
+		"/D/React/reactTutorialApp/.gitignore",
+		"/D/React/reactTutorialApp/android/app/src/main/AndroidManifest.xml",
+		"/D/React/reactTutorialApp/android/app/src/main/java/com/reacttutorialapp/MainApplication.java",
+		"/D/React/reactTutorialApp/android/app/build.gradle",
+		"/D/React/reactTutorialApp/android/app/proguard-rules.pro",
+		"/D/Android/Projects/TAQYEAM/app/src/main/res/drawable/drawer_item_color.xml",
+		"/D/Android/Projects/TAQYEAM/master",
+		"/D/Android/Projects/TAQYEAM/.gitignore",
+		"/D/React/TestProject/index.js",
+		"/D/React/TestProject/app/router.js",
+		"/D/React/TestProject/app/screens /Profile.js",
+		"/D/React/TestProject/app/screens /Lists.js",
+		"/D/React/TestProject/app/screens /Explore.js",
+		"/D/React/TestProject/app/screens /Bookcase.js",
+		"/D/React/TestProject/app/screens /AddBook.js",
+		"/D/React/TestProject/app/App.js",
+		"/D/React/TestProject/package.json",
+		"/D/React/TestProject/app.json",
+		"/D/React/TestProject/.gitignore",
+		"/D/React/TestProject/android/app/proguard-rules.pro",
+		"/D/React/TestProject/android/app/build.gradle",
+		"/D/Android/Projects/Kashcool/app/release/output.json",
+		"/D/Android/Projects/Kashcool/gradle.properties",
+		"/D/Android/Projects/Kashcool/app/fabric.properties",
+		"/D/Android/Projects/Kashcool/.gitignore",
+		"/D/Android/Projects/Kashcool/.idea/workspace.xml",
+		"/D/Android/Projects/Kashcool/app/google-services.json",
+		"/D/Android/Projects/kashcool_android_2018/app/.gitignore"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "auth.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
